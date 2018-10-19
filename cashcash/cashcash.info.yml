@@ -1,0 +1,18 @@
+name: 'Cash Cash'
+description: 'Dit thema is gewoon geweldig'
+type: theme
+core: 8.x
+
+libraries:
+  - cashcash/global-css
+  - cashcash/fontawesome
+  - cashcash/bootstrap
+  - cashcash/global-js
+
+regions:
+  content: 'Main content'
+  header: 'Header'
+  sidebar: 'Sidebar'
+  Footer: 'Footer'
+  Subheader-left: 'Subheader left'
+  Subheader-right: 'Subheader right'
